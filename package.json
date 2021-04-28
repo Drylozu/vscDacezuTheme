@@ -2,11 +2,12 @@
     "name": "dacezu-theme",
     "displayName": "Dacezu Theme",
     "description": "Make your nights even darker, focus on what you code.",
+    "icon": "Dacezu Icon.png",
     "publisher": "Drylozu",
     "version": "1.0.0",
     "license": "MIT",
     "repository": {
-        "url": "https://github.com/Drylozu/vscDacezu"
+        "url": "https://github.com/Drylozu/vscDacezuTheme"
     },
     "engines": {
         "vscode": "^1.55.0"
