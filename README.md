@@ -3,9 +3,11 @@
 [![Dacezu Theme Preview](https://i.imgur.com/Ikd8S2M.png)](https://github.com/Drylozu/MeowDB.js)
 
 A Visual Studio Code Extension (it really is a theme) in progress, very dark. :new_moon_with_face:
+[Get it here](https://marketplace.visualstudio.com/items?itemName=Drylozu.dacezu-theme)
 
 But for what so many colors? The idea is to focus on what you code, right?
 New things will be added soon, I'm starting to use it everyday and it seems very good to me.
+It doesn't use *italic*!
 
 ## Preview
 ### TypeScript
