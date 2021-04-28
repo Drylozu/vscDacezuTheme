@@ -1,0 +1,32 @@
+{
+    "name": "dacezu-theme",
+    "displayName": "Dacezu Theme",
+    "description": "Make your nights even darker, focus on what you code.",
+    "publisher": "Drylozu",
+    "version": "1.0.0",
+    "license": "MIT",
+    "repository": {
+        "url": "https://github.com/Drylozu/vscDacezu"
+    },
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "scripts": {
+        "build": "vsce package"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dacezu Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dacezu.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "vsce": "^1.87.1"
+    }
+}
