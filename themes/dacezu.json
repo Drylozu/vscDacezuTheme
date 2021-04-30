@@ -19,6 +19,24 @@
 	},
 	"tokenColors": [
 		{
+			"name": "Scope variable (this) property",
+			"scope": [
+				"support.variable.property"
+			],
+			"settings": {
+				"foreground": "#F07178"
+			}
+		},
+		{
+			"name": "?.",
+			"scope": [
+				"punctuation.accessor.optional"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
 			"name": "CSS Units",
 			"scope": [
 				"meta.property-value.css keyword.other.unit"
