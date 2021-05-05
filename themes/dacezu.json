@@ -311,8 +311,9 @@
 			}
 		},
 		{
-			"name": "Booleans, constructors, null and class methods",
+			"name": "Booleans, constructors, undefined, null and class methods",
 			"scope": [
+				"constant.language.undefined",
 				"constant.language.null",
 				"meta.class-method.js entity.name.function.js",
 				"variable.function.constructor",
