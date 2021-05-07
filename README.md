@@ -1,4 +1,13 @@
-<h1 align="center">Dacezu Theme</h1>
+<div align="center">
+
+# Dacezu Theme
+
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/Drylozu.dacezu-theme?color=007ec6&logo=visual-studio-code&logoColor=22a7f2&style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/Drylozu/vscDacezuTheme?style=flat-square)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/Drylozu/vscDacezuTheme?style=flat-square)
+[![Download](https://img.shields.io/badge/get%20it-here-brightgreen?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Drylozu.dacezu-theme)
+
+</div>
 
 ![Dacezu Theme Preview](https://i.imgur.com/Ikd8S2M.png)
 
