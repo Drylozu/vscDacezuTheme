@@ -1,6 +1,6 @@
 <h1 align="center">Dacezu Theme</h1>
 
-[![Dacezu Theme Preview](https://i.imgur.com/Ikd8S2M.png)](https://github.com/Drylozu/MeowDB.js)
+![Dacezu Theme Preview](https://i.imgur.com/Ikd8S2M.png)
 
 A Visual Studio Code Extension (it really is a theme) in progress, very dark. :new_moon_with_face:
 [Get it here](https://marketplace.visualstudio.com/items?itemName=Drylozu.dacezu-theme)
@@ -15,9 +15,9 @@ It doesn't use *italic*!
 ### Markdown
 ![Dacezu Preview Markdown](https://i.imgur.com/16pbvLp.png)
 ### HTML
-[![Dacezu Preview HTML](https://i.imgur.com/GK169z2.png)](http://zzz.drylo.xyz/)
+![Dacezu Preview HTML](https://i.imgur.com/GK169z2.png)
 ### CSS
-[![Dacezu Preview CSS](https://i.imgur.com/mEDd2KH.png)](http://zzz.drylo.xyz/)
+![Dacezu Preview CSS](https://i.imgur.com/mEDd2KH.png)
 
 <details>
     <summary>More about the previews</summary>
