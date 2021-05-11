@@ -19,6 +19,15 @@
 	},
 	"tokenColors": [
 		{
+			"name": "[]",
+			"scope": [
+				"meta.brace.square"
+			],
+			"settings": {
+				"foreground": "#BBBBBB"
+			}
+		},
+		{
 			"name": "Inherited Class",
 			"scope": [
 				"entity.other.inherited-class"
@@ -37,9 +46,9 @@
 			}
 		},
 		{
-			"name": "?.",
+			"name": "every ., including ?.",
 			"scope": [
-				"punctuation.accessor.optional"
+				"punctuation.accessor"
 			],
 			"settings": {
 				"foreground": "#C792EA"
