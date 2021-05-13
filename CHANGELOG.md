@@ -9,3 +9,5 @@
 ### 1.0.3 - Added the same color of "null" to "undefined"
 
 ### 1.0.4 - "punctuation.accessor"
+
+### 1.0.5 - Invalid/deprecated things

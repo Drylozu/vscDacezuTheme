@@ -146,7 +146,8 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#fa2d50",
+				"fontStyle": "underline"
 			}
 		},
 		{
