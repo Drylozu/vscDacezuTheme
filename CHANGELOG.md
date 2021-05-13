@@ -7,3 +7,5 @@
 ### 1.0.2 - Added a yellow color to inherited classes
 
 ### 1.0.3 - Added the same color of "null" to "undefined"
+
+### 1.0.4 - "punctuation.accessor"
