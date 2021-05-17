@@ -11,3 +11,5 @@
 ### 1.0.4 - "punctuation.accessor"
 
 ### 1.0.5 - Invalid/deprecated things
+
+### 1.0.6 - ${} color
