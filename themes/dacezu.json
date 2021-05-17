@@ -103,8 +103,8 @@
 		{
 			"name": "${} templates",
 			"scope": [
-				"punctuation.definition.template-expression.begin.ts",
-				"punctuation.definition.template-expression.end.ts"
+				"punctuation.definition.template-expression.begin",
+				"punctuation.definition.template-expression.end"
 			],
 			"settings": {
 				"foreground": "#8f7ce6",
